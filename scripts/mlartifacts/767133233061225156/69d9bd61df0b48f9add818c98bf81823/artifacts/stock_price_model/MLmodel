@@ -1,0 +1,24 @@
+artifact_path: stock_price_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.5.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.9.12
+mlflow_version: 2.16.2
+model_size_bytes: 1502999
+model_uuid: 19095314f772407297fc7994ac533d39
+run_id: 69d9bd61df0b48f9add818c98bf81823
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 30,
+    4]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    2]}}]'
+  params: null
+utc_time_created: '2024-10-10 13:56:00.354619'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/116226732118580419/f354e0c027ae43f4ad80715d58e60fa0/artifacts
+end_time: 1728564937643
+entry_point_name: ''
+experiment_id: '116226732118580419'
+lifecycle_stage: active
+run_id: f354e0c027ae43f4ad80715d58e60fa0
+run_name: incongruous-frog-517
+run_uuid: f354e0c027ae43f4ad80715d58e60fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728564936024
+status: 4
+tags: []
+user_id: sigmoid

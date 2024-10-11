@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/941909457635216276/7573b1bf9adc4825bd7a5927060524b9/artifacts
+end_time: 1728564508258
+entry_point_name: ''
+experiment_id: '941909457635216276'
+lifecycle_stage: active
+run_id: 7573b1bf9adc4825bd7a5927060524b9
+run_name: efficient-perch-695
+run_uuid: 7573b1bf9adc4825bd7a5927060524b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728564507750
+status: 3
+tags: []
+user_id: sigmoid

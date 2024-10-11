@@ -1,0 +1,15 @@
+artifact_uri: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/327790536332618229/0b6047a5f0cb48bd933e0bf9c40434fe/artifacts
+end_time: 1728567924835
+entry_point_name: ''
+experiment_id: '327790536332618229'
+lifecycle_stage: active
+run_id: 0b6047a5f0cb48bd933e0bf9c40434fe
+run_name: zealous-ram-576
+run_uuid: 0b6047a5f0cb48bd933e0bf9c40434fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728567924401
+status: 3
+tags: []
+user_id: sigmoid

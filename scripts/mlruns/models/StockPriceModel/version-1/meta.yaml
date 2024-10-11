@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728568566118
+current_stage: None
+description: ''
+last_updated_timestamp: 1728568566118
+name: StockPriceModel
+run_id: 69d9bd61df0b48f9add818c98bf81823
+run_link: ''
+source: mlflow-artifacts:/767133233061225156/69d9bd61df0b48f9add818c98bf81823/artifacts/stock_price_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/767133233061225156/69d9bd61df0b48f9add818c98bf81823/artifacts/stock_price_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996127585859796799/4227223ee83b470d8622048d6942522b/artifacts
+end_time: 1728564438755
+entry_point_name: ''
+experiment_id: '996127585859796799'
+lifecycle_stage: active
+run_id: 4227223ee83b470d8622048d6942522b
+run_name: ambitious-squid-891
+run_uuid: 4227223ee83b470d8622048d6942522b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728564070303
+status: 3
+tags: []
+user_id: sigmoid

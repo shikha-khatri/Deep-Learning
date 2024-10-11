@@ -1,0 +1,15 @@
+artifact_uri: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/327790536332618229/226ce4afc4bd40559d84cdda15fd5db1/artifacts
+end_time: 1728565391525
+entry_point_name: ''
+experiment_id: '327790536332618229'
+lifecycle_stage: active
+run_id: 226ce4afc4bd40559d84cdda15fd5db1
+run_name: puzzled-squirrel-556
+run_uuid: 226ce4afc4bd40559d84cdda15fd5db1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728565191055
+status: 3
+tags: []
+user_id: sigmoid

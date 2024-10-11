@@ -1,0 +1,6 @@
+artifact_location: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/780811601433321105
+creation_time: 1728561797380
+experiment_id: '780811601433321105'
+last_update_time: 1728561797380
+lifecycle_stage: active
+name: stock_price_model_DMY.h5

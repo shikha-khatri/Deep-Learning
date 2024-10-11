@@ -1,0 +1,15 @@
+artifact_uri: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/780811601433321105/f1ce034811784af7aec592d5a12f4208/artifacts
+end_time: 1728561798498
+entry_point_name: ''
+experiment_id: '780811601433321105'
+lifecycle_stage: active
+run_id: f1ce034811784af7aec592d5a12f4208
+run_name: nebulous-roo-854
+run_uuid: f1ce034811784af7aec592d5a12f4208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728561798033
+status: 3
+tags: []
+user_id: sigmoid

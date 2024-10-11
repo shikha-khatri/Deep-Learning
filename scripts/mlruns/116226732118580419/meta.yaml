@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/116226732118580419
+creation_time: 1728564935716
+experiment_id: '116226732118580419'
+last_update_time: 1728564935716
+lifecycle_stage: active
+name: LSTM Prediction

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728565391246
+current_stage: None
+description: null
+last_updated_timestamp: 1728565391246
+name: StockPriceModel
+run_id: 226ce4afc4bd40559d84cdda15fd5db1
+run_link: null
+source: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/327790536332618229/226ce4afc4bd40559d84cdda15fd5db1/artifacts/stock_price_model
+status: READY
+status_message: null
+storage_location: /home/sigmoid/Desktop/POC/Parallel_RAY/scripts/../mlruns_dir/327790536332618229/226ce4afc4bd40559d84cdda15fd5db1/artifacts/stock_price_model
+user_id: null
+version: 1
